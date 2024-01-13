@@ -8,7 +8,6 @@ Lost between so many apps opened in MAC, this little script can help you organis
 This is a bash script you can use to :
 
 1. Find all Opened Apps in your Mac-OS
-1. Script will find all opened apps
 1. It will  ask you one by one if you want to keep the app opened or close it
 1. To close an app, just hit Enter
 1. To keep the app running, hit 'n'
