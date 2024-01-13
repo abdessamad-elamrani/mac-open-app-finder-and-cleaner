@@ -15,7 +15,10 @@ This is a bash script you can use to :
 to use
 ``` macos # bash mac-mac-openapp-cleaner.bash ```
 
-NOTE : this was tested for BASH script, if you are using zsh, adapt it or switch your shell to BASH
+NOTES : 
++ this was tested for BASH script, if you are using zsh, adapt it or switch your shell to BASH
++ there are some stubborn apps , like RoyalTSX , script will try to force close it, you can also open the script and add any app that you see the script has hard time to force close it
++ script will also tell you the stubborn apps that will automatically try to force close them (after you hit Enter)
 
 Example
 
